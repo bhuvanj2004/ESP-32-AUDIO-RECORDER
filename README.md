@@ -1,6 +1,3 @@
-# ESP-32-AUDIO-RECORDER
-This repo contains the code for designing a .wav audio recorder using ESP32 development board, an INMP441 MEMS microphone, and a SD Card Reader. This captures audio when a button is triggered and stops when it is disconnected.
-
 # ESP32 I2S WAV Audio Recorder
 
 An embedded audio recording system built using the ESP32, INMP441 I2S MEMS microphone, and microSD card module.  
